@@ -1,9 +1,9 @@
 ---
 layout: page
-title: ""
+title: "Home"
 ---
 
-I am Aditya Trivedi, a third year undergraduate at [IIT Guwahati](iitg.ac.in). I am pursuing a B.Tech in Computer Science and Engineering along with Minors in Product Design. My major CPI is 9.44/10 and minor CPI is 10.00. 
+I am Aditya Trivedi, a third year undergraduate at [IIT Guwahati](https://iitg.ac.in). I am pursuing a B.Tech in Computer Science and Engineering along with Minors in Product Design. My major CPI is 9.44/10 and minor CPI is 10.00. 
 
 Currently, I am a research intern at the MIST Lab at Polytechnique Montreal, where I am working on developing a Software-In-The-Loop(SITL) for the [CogniFly Drone](https://thecognifly.github.io/) based on pre-existing SITLs. 
 
@@ -17,9 +17,12 @@ I am part of the [CSEA](https://www.facebook.com/iitgcsea) team, previously as a
 
 Here is my github profile [@ad1tyat](https://github.com/ad1tyat) and my linkedin [https://www.linkedin.com/in/trivedi-aditya/](https://www.linkedin.com/in/trivedi-aditya/) 
 
-My [CV](linktoCV) and [Projects](linktoprojects) can be accessed via the menu on the top right.
+My [CV](/resume.pdf) and [Projects](/blog) can be accessed via the menu on the top right.
 
 You can reach out by mailing me at adityatrivedi25 at gmail dot com. I am also active on instagram as [@adityatrivediii](https://www.instagram.com/adityatrivediii/)
 
 ------
+
+Credits :
+This site was build using the [Contrast](https://github.com/niklasbuschmann/contrast/) Jekyll Template 
 
